@@ -10,7 +10,7 @@ Locales['sv'] = {
 	['gas'] = 'Personen har skadade lungor förmodligen av någon slags gas',
 	['fireextinguisher'] = 'Personen har kvävts av något med vitt skum',
 	['fire'] = 'Personen har brännskador över hela kroppen',
-	['caraccident'] = 'PPersonen har varit involverad i en bilolycka',
+	['caraccident'] = 'Personen har varit involverad i en bilolycka',
 	['drown'] = 'Personen har vatten i lungorna',
 	['unknown'] = 'Dödsorsak okänd',
 
